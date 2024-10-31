@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "betterproto"
-version = "2.0.0b7"
-description = "A better Protobuf / gRPC generator & library"
+name = "betterproto-clipsalcortex"
+version = "2.0.0"
+description = "A better Protobuf / gRPC generator & library (forked by Clipsal Cortex)"
 authors = ["Daniel G. Taylor <danielgtaylor@gmail.com>"]
 readme = "README.md"
 repository = "https://github.com/danielgtaylor/python-betterproto"
